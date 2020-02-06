@@ -1,2 +1,7 @@
 # Queue_with_linked_list_in_C
-implement queue with linked list in C
+functions:<br/>
+- init_queue --> complexity: O(1)<br/>
+- isEmpty --> complexity: O(1)<br/>
+- enqueue --> complexity: O(1)<br/>
+- dequeue --> complexity: O(1)<br/>
+
