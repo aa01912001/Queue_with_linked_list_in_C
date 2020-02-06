@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580968648 source:d:\github_code\queue_with_linked_list_in_c\queue_with_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
