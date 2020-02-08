@@ -72,5 +72,6 @@ int main()
         dequeue(q);
     }
 
+    free(q); // release memory of queue.
     return 0;
 }
