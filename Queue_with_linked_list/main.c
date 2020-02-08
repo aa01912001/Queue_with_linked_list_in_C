@@ -68,7 +68,7 @@ int main()
 
     printf("-----------------------------\n");
 
-    while(!isEmpty(q)){ // remove all the items from queue.
+    while(!isEmpty(q)){ // remove all items from queue.
         dequeue(q);
     }
 
